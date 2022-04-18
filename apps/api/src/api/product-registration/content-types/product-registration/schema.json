@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "product_registrations",
+  "info": {
+    "singularName": "product-registration",
+    "pluralName": "product-registrations",
+    "displayName": "product_registration"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "price": {
+      "type": "float"
+    }
+  }
+}

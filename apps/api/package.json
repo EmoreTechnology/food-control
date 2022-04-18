@@ -14,13 +14,13 @@
     "@strapi/strapi": "4.1.8",
     "@strapi/plugin-users-permissions": "4.1.8",
     "@strapi/plugin-i18n": "4.1.8",
-    "better-sqlite3": "7.4.6"
+    "pg": "8.6.0"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "06bcf961-cadc-472f-b37a-ceb719681b77"
+    "uuid": "d966950e-bf36-4342-9e2f-f1beb0253853"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
